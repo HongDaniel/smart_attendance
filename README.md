@@ -18,15 +18,25 @@
 ## Screenshot
 
 로그인 페이지
+
 <img width="500" alt="로그인" src="https://user-images.githubusercontent.com/62278458/155885444-d1a75226-e2e3-4ddf-8179-f428d7821a73.png">
 
+
+
 수업관리 페이지
+
 <img width="500" alt="수업관리" src="https://user-images.githubusercontent.com/62278458/155885455-cf0819b8-a8f0-41c4-babd-7fe651f8e9c7.png">
 
+
+
 출석 프로그램 컨트롤러 페이지
+
 <img width="500" alt="출석" src="https://user-images.githubusercontent.com/62278458/155885486-8ab518db-0691-4dee-90d5-2772064f31e3.png">
 
+
+
 멤버관리 페이지
+
 <img width="500" alt="멤버관리" src="https://user-images.githubusercontent.com/62278458/155885505-cd4ab2d6-7f9c-4335-a717-a4d35975dda9.png">
 
 
