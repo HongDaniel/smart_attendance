@@ -5,7 +5,7 @@
  
 # 전체구조
 
-<img width="341" alt="전체구조" src="https://user-images.githubusercontent.com/62278458/155885221-243b669f-6b70-4755-a748-0342bbfeb12f.png">
+<img width="700px" alt="전체구조" src="https://user-images.githubusercontent.com/62278458/155885221-243b669f-6b70-4755-a748-0342bbfeb12f.png">
 
 # 구현환경
 
